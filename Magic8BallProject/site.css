@@ -1,2 +1,18 @@
 ﻿body {
 }
+
+img#8ball{
+    display:block;
+    margin:auto;
+    width:40%;
+    position:absolute;
+
+}
+
+element.style {
+    height: 200px;
+    width: 200px;
+    margin:auto;
+    width:40%;
+    position:center;
+}

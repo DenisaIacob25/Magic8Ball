@@ -12,7 +12,7 @@ var outcome = [
     "win 10 million dollars gambling in Monaco."]
 
 function UpdateDiv() {
-    document.getElementById("result").innerHTML = outcome[Math.floor(Math.random() * outcome.length)];
+    document.getElementById("result").innerHTML ="You will " + outcome[Math.floor(Math.random() * outcome.length)];
 
 }
 
