@@ -107,6 +107,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="8Ball.js" />
+    <Content Include="images\8 ball.png" />
     <Content Include="index.html" />
     <Content Include="site.css" />
     <Content Include="Web.config" />
